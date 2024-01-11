@@ -2,7 +2,7 @@
 - 👀 I’m interested in creating stuffs.
 - 🌱 I’m currently learning ML programs implement.
 - 💞️ I’m looking to collaborate on creative persons!
-- 📫 How to reach me luwei2@ualberta.ca
+- 📫 How to reach me luwei2@ualberta.ca https://www.linkedin.com/in/luwei-lin-108639206/
 
 <!---
 Luwei-Lin/Luwei-Lin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
